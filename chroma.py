@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+# Here you choose the video you want.
 video = cv2.VideoCapture('video/city2.mp4')
 
 cap = cv2.VideoCapture(0)
